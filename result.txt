@@ -1,0 +1,601 @@
+[LOW] [200] [GET] https://dev.advanceappliance.ca/register
+[LOW] [200] [POST] https://dev.advanceappliance.ca/register
+[LOW] [200] [PUT] https://dev.advanceappliance.ca/register
+[LOW] [200] [PATCH] https://dev.advanceappliance.ca/register
+[LOW] [200] [DELETE] https://dev.advanceappliance.ca/register
+[LOW] [400] [OPTIONS] https://dev.advanceappliance.ca/register
+[LOW] [200] [HEAD] https://dev.advanceappliance.ca/register
+[LOW] [200] [GET] https://dev.advanceappliance.ca/forgot-password
+[LOW] [200] [POST] https://dev.advanceappliance.ca/forgot-password
+[LOW] [200] [PUT] https://dev.advanceappliance.ca/forgot-password
+[LOW] [200] [PATCH] https://dev.advanceappliance.ca/forgot-password
+[LOW] [200] [DELETE] https://dev.advanceappliance.ca/forgot-password
+[LOW] [400] [OPTIONS] https://dev.advanceappliance.ca/forgot-password
+[LOW] [200] [HEAD] https://dev.advanceappliance.ca/forgot-password
+[LOW] [200] [GET] https://dev.advanceappliance.ca/login
+[LOW] [200] [POST] https://dev.advanceappliance.ca/login
+[LOW] [200] [PUT] https://dev.advanceappliance.ca/login
+[LOW] [200] [PATCH] https://dev.advanceappliance.ca/login
+[LOW] [200] [DELETE] https://dev.advanceappliance.ca/login
+[LOW] [400] [OPTIONS] https://dev.advanceappliance.ca/login
+[LOW] [200] [HEAD] https://dev.advanceappliance.ca/login
+[HIGH] [307] [GET] https://dev.advanceappliance.ca/admin/users
+[HIGH] [307] [POST] https://dev.advanceappliance.ca/admin/users
+[HIGH] [307] [PUT] https://dev.advanceappliance.ca/admin/users
+[HIGH] [307] [PATCH] https://dev.advanceappliance.ca/admin/users
+[HIGH] [307] [DELETE] https://dev.advanceappliance.ca/admin/users
+[HIGH] [307] [OPTIONS] https://dev.advanceappliance.ca/admin/users
+[HIGH] [307] [HEAD] https://dev.advanceappliance.ca/admin/users
+[HIGH] [307] [GET] https://dev.advanceappliance.ca/admin/api
+[HIGH] [307] [POST] https://dev.advanceappliance.ca/admin/api
+[HIGH] [307] [PUT] https://dev.advanceappliance.ca/admin/api
+[HIGH] [307] [PATCH] https://dev.advanceappliance.ca/admin/api
+[HIGH] [307] [DELETE] https://dev.advanceappliance.ca/admin/api
+[HIGH] [307] [OPTIONS] https://dev.advanceappliance.ca/admin/api
+[HIGH] [307] [HEAD] https://dev.advanceappliance.ca/admin/api
+[HIGH] [307] [GET] https://dev.advanceappliance.ca/admin/panel
+[HIGH] [307] [POST] https://dev.advanceappliance.ca/admin/panel
+[HIGH] [307] [PUT] https://dev.advanceappliance.ca/admin/panel
+[HIGH] [307] [PATCH] https://dev.advanceappliance.ca/admin/panel
+[HIGH] [307] [DELETE] https://dev.advanceappliance.ca/admin/panel
+[HIGH] [307] [OPTIONS] https://dev.advanceappliance.ca/admin/panel
+[HIGH] [307] [HEAD] https://dev.advanceappliance.ca/admin/panel
+[HIGH] [307] [GET] https://dev.advanceappliance.ca/admin/login
+[HIGH] [307] [POST] https://dev.advanceappliance.ca/admin/login
+[HIGH] [307] [PUT] https://dev.advanceappliance.ca/admin/login
+[HIGH] [307] [PATCH] https://dev.advanceappliance.ca/admin/login
+[HIGH] [307] [DELETE] https://dev.advanceappliance.ca/admin/login
+[HIGH] [307] [OPTIONS] https://dev.advanceappliance.ca/admin/login
+[HIGH] [307] [HEAD] https://dev.advanceappliance.ca/admin/login
+[LOW] [200] [GET] https://dev.advanceappliance.ca/account
+[LOW] [200] [POST] https://dev.advanceappliance.ca/account
+[LOW] [200] [PUT] https://dev.advanceappliance.ca/account
+[LOW] [200] [PATCH] https://dev.advanceappliance.ca/account
+[LOW] [200] [DELETE] https://dev.advanceappliance.ca/account
+[LOW] [400] [OPTIONS] https://dev.advanceappliance.ca/account
+[LOW] [200] [HEAD] https://dev.advanceappliance.ca/account
+[LOW] [307] [GET] https://dev.advanceappliance.ca/dashboard
+[LOW] [307] [POST] https://dev.advanceappliance.ca/dashboard
+[LOW] [307] [PUT] https://dev.advanceappliance.ca/dashboard
+[LOW] [307] [PATCH] https://dev.advanceappliance.ca/dashboard
+[LOW] [307] [DELETE] https://dev.advanceappliance.ca/dashboard
+[LOW] [307] [OPTIONS] https://dev.advanceappliance.ca/dashboard
+[LOW] [307] [HEAD] https://dev.advanceappliance.ca/dashboard
+[HIGH] [307] [GET] https://dev.advanceappliance.ca/admin/dashboard
+[HIGH] [307] [POST] https://dev.advanceappliance.ca/admin/dashboard
+[HIGH] [307] [PUT] https://dev.advanceappliance.ca/admin/dashboard
+[HIGH] [307] [PATCH] https://dev.advanceappliance.ca/admin/dashboard
+[HIGH] [307] [DELETE] https://dev.advanceappliance.ca/admin/dashboard
+[HIGH] [307] [OPTIONS] https://dev.advanceappliance.ca/admin/dashboard
+[HIGH] [307] [HEAD] https://dev.advanceappliance.ca/admin/dashboard
+[LOW] [200] [GET] https://dev.advanceappliance.ca/checkout
+[LOW] [200] [POST] https://dev.advanceappliance.ca/checkout
+[LOW] [200] [PUT] https://dev.advanceappliance.ca/checkout
+[LOW] [200] [PATCH] https://dev.advanceappliance.ca/checkout
+[LOW] [200] [GET] https://dev.advanceappliance.ca/orders
+[LOW] [200] [POST] https://dev.advanceappliance.ca/orders
+[LOW] [200] [PUT] https://dev.advanceappliance.ca/orders
+[LOW] [200] [PATCH] https://dev.advanceappliance.ca/orders
+[LOW] [200] [GET] https://dev.advanceappliance.ca/sitemap.xml
+[LOW] [405] [POST] https://dev.advanceappliance.ca/sitemap.xml
+[LOW] [405] [PUT] https://dev.advanceappliance.ca/sitemap.xml
+[LOW] [405] [PATCH] https://dev.advanceappliance.ca/sitemap.xml
+[LOW] [405] [DELETE] https://dev.advanceappliance.ca/sitemap.xml
+[LOW] [400] [OPTIONS] https://dev.advanceappliance.ca/sitemap.xml
+[LOW] [200] [HEAD] https://dev.advanceappliance.ca/sitemap.xml
+[CRITICAL] [403] [DELETE] https://dev.advanceappliance.ca/web.config | auth:403 Forbidden — endpoint exists but access denied
+[CRITICAL] [403] [OPTIONS] https://dev.advanceappliance.ca/web.config | auth:403 Forbidden — endpoint exists but access denied
+[CRITICAL] [403] [HEAD] https://dev.advanceappliance.ca/web.config | auth:403 Forbidden — endpoint exists but access denied
+[CRITICAL] [403] [GET] https://dev.advanceappliance.ca/.git/HEAD | auth:403 Forbidden — endpoint exists but access denied
+[CRITICAL] [403] [POST] https://dev.advanceappliance.ca/.git/HEAD | auth:403 Forbidden — endpoint exists but access denied
+[CRITICAL] [403] [PUT] https://dev.advanceappliance.ca/.git/HEAD | auth:403 Forbidden — endpoint exists but access denied
+[CRITICAL] [403] [PATCH] https://dev.advanceappliance.ca/.git/HEAD | auth:403 Forbidden — endpoint exists but access denied
+[CRITICAL] [403] [DELETE] https://dev.advanceappliance.ca/.git/HEAD | auth:403 Forbidden — endpoint exists but access denied
+[CRITICAL] [403] [OPTIONS] https://dev.advanceappliance.ca/.git/HEAD | auth:403 Forbidden — endpoint exists but access denied
+[CRITICAL] [403] [HEAD] https://dev.advanceappliance.ca/.git/HEAD | auth:403 Forbidden — endpoint exists but access denied
+[LOW] [403] [HEAD] https://dev.advanceappliance.ca/WEB-INF/web.xml | auth:403 Forbidden — endpoint exists but access denied
+[CRITICAL] [403] [GET] https://dev.advanceappliance.ca/.git/config | auth:403 Forbidden — endpoint exists but access denied
+[CRITICAL] [403] [POST] https://dev.advanceappliance.ca/.git/config | auth:403 Forbidden — endpoint exists but access denied
+[CRITICAL] [403] [PUT] https://dev.advanceappliance.ca/.git/config | auth:403 Forbidden — endpoint exists but access denied
+[CRITICAL] [403] [PATCH] https://dev.advanceappliance.ca/.git/config | auth:403 Forbidden — endpoint exists but access denied
+[CRITICAL] [403] [DELETE] https://dev.advanceappliance.ca/.git/config | auth:403 Forbidden — endpoint exists but access denied
+[CRITICAL] [403] [OPTIONS] https://dev.advanceappliance.ca/.git/config | auth:403 Forbidden — endpoint exists but access denied
+[CRITICAL] [403] [HEAD] https://dev.advanceappliance.ca/.git/config | auth:403 Forbidden — endpoint exists but access denied
+[CRITICAL] [403] [GET] https://dev.advanceappliance.ca/.htpasswd | auth:403 Forbidden — endpoint exists but access denied
+[CRITICAL] [403] [POST] https://dev.advanceappliance.ca/.htpasswd | auth:403 Forbidden — endpoint exists but access denied
+[CRITICAL] [403] [OPTIONS] https://dev.advanceappliance.ca/.htpasswd | auth:403 Forbidden — endpoint exists but access denied
+[CRITICAL] [403] [HEAD] https://dev.advanceappliance.ca/.htpasswd | auth:403 Forbidden — endpoint exists but access denied
+[LOW] [403] [OPTIONS] https://dev.advanceappliance.ca/yarn.lock | auth:403 Forbidden — endpoint exists but access denied
+[LOW] [403] [HEAD] https://dev.advanceappliance.ca/yarn.lock | auth:403 Forbidden — endpoint exists but access denied
+[HIGH] [403] [GET] https://dev.advanceappliance.ca/.htaccess | auth:403 Forbidden — endpoint exists but access denied
+[HIGH] [403] [POST] https://dev.advanceappliance.ca/.htaccess | auth:403 Forbidden — endpoint exists but access denied
+[HIGH] [501] [PUT] https://dev.advanceappliance.ca/.htaccess | auth:403 Forbidden — endpoint exists but access denied
+[HIGH] [501] [PATCH] https://dev.advanceappliance.ca/.htaccess | auth:403 Forbidden — endpoint exists but access denied
+[HIGH] [501] [DELETE] https://dev.advanceappliance.ca/.htaccess | auth:403 Forbidden — endpoint exists but access denied
+[HIGH] [403] [OPTIONS] https://dev.advanceappliance.ca/.htaccess | auth:403 Forbidden — endpoint exists but access denied
+[HIGH] [403] [HEAD] https://dev.advanceappliance.ca/.htaccess | auth:403 Forbidden — endpoint exists but access denied
+[LOW] [403] [OPTIONS] https://dev.advanceappliance.ca/package-lock.json | auth:403 Forbidden — endpoint exists but access denied
+[LOW] [403] [HEAD] https://dev.advanceappliance.ca/package-lock.json | auth:403 Forbidden — endpoint exists but access denied
+[CRITICAL] [403] [PUT] https://dev.advanceappliance.ca/docker-compose.yml | auth:403 Forbidden — endpoint exists but access denied
+[CRITICAL] [403] [PATCH] https://dev.advanceappliance.ca/docker-compose.yml | auth:403 Forbidden — endpoint exists but access denied
+[CRITICAL] [403] [DELETE] https://dev.advanceappliance.ca/docker-compose.yml | auth:403 Forbidden — endpoint exists but access denied
+[CRITICAL] [403] [OPTIONS] https://dev.advanceappliance.ca/docker-compose.yml | auth:403 Forbidden — endpoint exists but access denied
+[CRITICAL] [403] [HEAD] https://dev.advanceappliance.ca/docker-compose.yml | auth:403 Forbidden — endpoint exists but access denied
+[HIGH] [403] [GET] https://dev.advanceappliance.ca/admin/jsi18n | auth:403 Forbidden — endpoint exists but access denied
+[HIGH] [403] [POST] https://dev.advanceappliance.ca/admin/jsi18n | auth:403 Forbidden — endpoint exists but access denied
+[HIGH] [403] [PUT] https://dev.advanceappliance.ca/admin/jsi18n | auth:403 Forbidden — endpoint exists but access denied
+[HIGH] [403] [PATCH] https://dev.advanceappliance.ca/admin/jsi18n | auth:403 Forbidden — endpoint exists but access denied
+[HIGH] [403] [DELETE] https://dev.advanceappliance.ca/admin/jsi18n | auth:403 Forbidden — endpoint exists but access denied
+[HIGH] [403] [OPTIONS] https://dev.advanceappliance.ca/admin/jsi18n | auth:403 Forbidden — endpoint exists but access denied
+[HIGH] [403] [HEAD] https://dev.advanceappliance.ca/admin/jsi18n | auth:403 Forbidden — endpoint exists but access denied
+[CRITICAL] [403] [GET] https://dev.advanceappliance.ca/.git | auth:403 Forbidden — endpoint exists but access denied
+[CRITICAL] [403] [POST] https://dev.advanceappliance.ca/.git | auth:403 Forbidden — endpoint exists but access denied
+[CRITICAL] [403] [PUT] https://dev.advanceappliance.ca/.git | auth:403 Forbidden — endpoint exists but access denied
+[CRITICAL] [403] [PATCH] https://dev.advanceappliance.ca/.git | auth:403 Forbidden — endpoint exists but access denied
+[CRITICAL] [403] [DELETE] https://dev.advanceappliance.ca/.git | auth:403 Forbidden — endpoint exists but access denied
+[CRITICAL] [403] [OPTIONS] https://dev.advanceappliance.ca/.git | auth:403 Forbidden — endpoint exists but access denied
+[CRITICAL] [403] [HEAD] https://dev.advanceappliance.ca/.git | auth:403 Forbidden — endpoint exists but access denied
+[CRITICAL] [403] [HEAD] https://dev.advanceappliance.ca/composer.json | auth:403 Forbidden — endpoint exists but access denied
+[LOW] [200] [GET] https://dev.advanceappliance.ca/robots.txt
+[LOW] [405] [POST] https://dev.advanceappliance.ca/robots.txt
+[LOW] [405] [PUT] https://dev.advanceappliance.ca/robots.txt
+[LOW] [405] [PATCH] https://dev.advanceappliance.ca/robots.txt
+[LOW] [405] [DELETE] https://dev.advanceappliance.ca/robots.txt
+[LOW] [400] [OPTIONS] https://dev.advanceappliance.ca/robots.txt
+[LOW] [200] [HEAD] https://dev.advanceappliance.ca/robots.txt
+[LOW] [403] [PATCH] https://dev.advanceappliance.ca/CHANGELOG.md | auth:403 Forbidden — endpoint exists but access denied
+[LOW] [403] [DELETE] https://dev.advanceappliance.ca/CHANGELOG.md | auth:403 Forbidden — endpoint exists but access denied
+[LOW] [403] [OPTIONS] https://dev.advanceappliance.ca/CHANGELOG.md | auth:403 Forbidden — endpoint exists but access denied
+[LOW] [403] [HEAD] https://dev.advanceappliance.ca/CHANGELOG.md | auth:403 Forbidden — endpoint exists but access denied
+[LOW] [403] [PATCH] https://dev.advanceappliance.ca/Dockerfile | auth:403 Forbidden — endpoint exists but access denied
+[LOW] [403] [DELETE] https://dev.advanceappliance.ca/Dockerfile | auth:403 Forbidden — endpoint exists but access denied
+[LOW] [403] [OPTIONS] https://dev.advanceappliance.ca/Dockerfile | auth:403 Forbidden — endpoint exists but access denied
+[LOW] [403] [POST] https://dev.advanceappliance.ca/backup.tar.gz | auth:403 Forbidden — endpoint exists but access denied
+[LOW] [403] [PUT] https://dev.advanceappliance.ca/backup.tar.gz | auth:403 Forbidden — endpoint exists but access denied
+[LOW] [403] [PATCH] https://dev.advanceappliance.ca/backup.tar.gz | auth:403 Forbidden — endpoint exists but access denied
+[LOW] [403] [DELETE] https://dev.advanceappliance.ca/backup.tar.gz | auth:403 Forbidden — endpoint exists but access denied
+[LOW] [403] [OPTIONS] https://dev.advanceappliance.ca/backup.tar.gz | auth:403 Forbidden — endpoint exists but access denied
+[LOW] [403] [HEAD] https://dev.advanceappliance.ca/backup.tar.gz | auth:403 Forbidden — endpoint exists but access denied
+[LOW] [403] [PATCH] https://dev.advanceappliance.ca/Gemfile | auth:403 Forbidden — endpoint exists but access denied
+[LOW] [403] [DELETE] https://dev.advanceappliance.ca/Gemfile | auth:403 Forbidden — endpoint exists but access denied
+[LOW] [403] [OPTIONS] https://dev.advanceappliance.ca/Gemfile | auth:403 Forbidden — endpoint exists but access denied
+[LOW] [403] [HEAD] https://dev.advanceappliance.ca/Gemfile | auth:403 Forbidden — endpoint exists but access denied
+[LOW] [403] [PATCH] https://dev.advanceappliance.ca/docker-compose.yaml | auth:403 Forbidden — endpoint exists but access denied
+[LOW] [403] [DELETE] https://dev.advanceappliance.ca/docker-compose.yaml | auth:403 Forbidden — endpoint exists but access denied
+[LOW] [403] [OPTIONS] https://dev.advanceappliance.ca/docker-compose.yaml | auth:403 Forbidden — endpoint exists but access denied
+[LOW] [403] [HEAD] https://dev.advanceappliance.ca/docker-compose.yaml | auth:403 Forbidden — endpoint exists but access denied
+[CRITICAL] [403] [DELETE] https://dev.advanceappliance.ca/package.json | auth:403 Forbidden — endpoint exists but access denied
+[CRITICAL] [403] [OPTIONS] https://dev.advanceappliance.ca/package.json | auth:403 Forbidden — endpoint exists but access denied
+[CRITICAL] [403] [HEAD] https://dev.advanceappliance.ca/package.json | auth:403 Forbidden — endpoint exists but access denied
+[LOW] [403] [PATCH] https://dev.advanceappliance.ca/Gemfile.lock | auth:403 Forbidden — endpoint exists but access denied
+[LOW] [403] [DELETE] https://dev.advanceappliance.ca/Gemfile.lock | auth:403 Forbidden — endpoint exists but access denied
+[LOW] [403] [OPTIONS] https://dev.advanceappliance.ca/Gemfile.lock | auth:403 Forbidden — endpoint exists but access denied
+[LOW] [403] [HEAD] https://dev.advanceappliance.ca/Gemfile.lock | auth:403 Forbidden — endpoint exists but access denied
+[CRITICAL] [403] [DELETE] https://dev.advanceappliance.ca/backup.sql | auth:403 Forbidden — endpoint exists but access denied
+[CRITICAL] [403] [OPTIONS] https://dev.advanceappliance.ca/backup.sql | auth:403 Forbidden — endpoint exists but access denied
+[CRITICAL] [403] [HEAD] https://dev.advanceappliance.ca/backup.sql | auth:403 Forbidden — endpoint exists but access denied
+[LOW] [403] [GET] https://dev.advanceappliance.ca/api/schema | auth:403 Forbidden — endpoint exists but access denied
+[LOW] [403] [PUT] https://dev.advanceappliance.ca/api/schema | auth:403 Forbidden — endpoint exists but access denied
+[LOW] [403] [PATCH] https://dev.advanceappliance.ca/api/schema | auth:403 Forbidden — endpoint exists but access denied
+[LOW] [403] [DELETE] https://dev.advanceappliance.ca/api/schema | auth:403 Forbidden — endpoint exists but access denied
+[LOW] [403] [OPTIONS] https://dev.advanceappliance.ca/api/schema | auth:403 Forbidden — endpoint exists but access denied
+[LOW] [403] [HEAD] https://dev.advanceappliance.ca/api/schema | auth:403 Forbidden — endpoint exists but access denied
+[LOW] [403] [POST] https://dev.advanceappliance.ca/api/user | auth:403 Forbidden — endpoint exists but access denied
+[LOW] [403] [PUT] https://dev.advanceappliance.ca/api/user | auth:403 Forbidden — endpoint exists but access denied
+[LOW] [403] [PATCH] https://dev.advanceappliance.ca/api/user | auth:403 Forbidden — endpoint exists but access denied
+[LOW] [403] [DELETE] https://dev.advanceappliance.ca/api/user | auth:403 Forbidden — endpoint exists but access denied
+[LOW] [403] [OPTIONS] https://dev.advanceappliance.ca/api/user | auth:403 Forbidden — endpoint exists but access denied
+[LOW] [403] [HEAD] https://dev.advanceappliance.ca/api/user | auth:403 Forbidden — endpoint exists but access denied
+[LOW] [403] [PATCH] https://dev.advanceappliance.ca/requirements.txt | auth:403 Forbidden — endpoint exists but access denied
+[LOW] [403] [DELETE] https://dev.advanceappliance.ca/requirements.txt | auth:403 Forbidden — endpoint exists but access denied
+[LOW] [403] [OPTIONS] https://dev.advanceappliance.ca/requirements.txt | auth:403 Forbidden — endpoint exists but access denied
+[LOW] [403] [HEAD] https://dev.advanceappliance.ca/requirements.txt | auth:403 Forbidden — endpoint exists but access denied
+[HIGH] [403] [POST] https://dev.advanceappliance.ca/horizon | auth:403 Forbidden — endpoint exists but access denied
+[HIGH] [403] [PUT] https://dev.advanceappliance.ca/horizon | auth:403 Forbidden — endpoint exists but access denied
+[HIGH] [403] [PATCH] https://dev.advanceappliance.ca/horizon | auth:403 Forbidden — endpoint exists but access denied
+[HIGH] [403] [DELETE] https://dev.advanceappliance.ca/horizon | auth:403 Forbidden — endpoint exists but access denied
+[HIGH] [403] [OPTIONS] https://dev.advanceappliance.ca/horizon | auth:403 Forbidden — endpoint exists but access denied
+[HIGH] [403] [HEAD] https://dev.advanceappliance.ca/horizon | auth:403 Forbidden — endpoint exists but access denied
+[LOW] [403] [GET] https://dev.advanceappliance.ca/rails/info | auth:403 Forbidden — endpoint exists but access denied
+[LOW] [403] [POST] https://dev.advanceappliance.ca/rails/info | auth:403 Forbidden — endpoint exists but access denied
+[LOW] [403] [PUT] https://dev.advanceappliance.ca/rails/info | auth:403 Forbidden — endpoint exists but access denied
+[LOW] [403] [PATCH] https://dev.advanceappliance.ca/rails/info | auth:403 Forbidden — endpoint exists but access denied
+[LOW] [403] [DELETE] https://dev.advanceappliance.ca/rails/info | auth:403 Forbidden — endpoint exists but access denied
+[LOW] [403] [OPTIONS] https://dev.advanceappliance.ca/rails/info | auth:403 Forbidden — endpoint exists but access denied
+[LOW] [403] [HEAD] https://dev.advanceappliance.ca/rails/info | auth:403 Forbidden — endpoint exists but access denied
+[HIGH] [307] [GET] https://dev.advanceappliance.ca/admin/doc
+[HIGH] [403] [POST] https://dev.advanceappliance.ca/admin/doc
+[HIGH] [307] [PUT] https://dev.advanceappliance.ca/admin/doc
+[HIGH] [403] [PATCH] https://dev.advanceappliance.ca/admin/doc
+[HIGH] [403] [DELETE] https://dev.advanceappliance.ca/admin/doc
+[HIGH] [403] [OPTIONS] https://dev.advanceappliance.ca/admin/doc
+[HIGH] [403] [HEAD] https://dev.advanceappliance.ca/admin/doc
+[CRITICAL] [403] [DELETE] https://dev.advanceappliance.ca/db.sqlite | auth:403 Forbidden — endpoint exists but access denied
+[CRITICAL] [403] [OPTIONS] https://dev.advanceappliance.ca/db.sqlite | auth:403 Forbidden — endpoint exists but access denied
+[CRITICAL] [403] [HEAD] https://dev.advanceappliance.ca/db.sqlite | auth:403 Forbidden — endpoint exists but access denied
+[LOW] [403] [GET] https://dev.advanceappliance.ca/_internal | auth:403 Forbidden — endpoint exists but access denied
+[LOW] [403] [POST] https://dev.advanceappliance.ca/_internal | auth:403 Forbidden — endpoint exists but access denied
+[LOW] [403] [PUT] https://dev.advanceappliance.ca/_internal | auth:403 Forbidden — endpoint exists but access denied
+[LOW] [403] [PATCH] https://dev.advanceappliance.ca/_internal | auth:403 Forbidden — endpoint exists but access denied
+[LOW] [403] [DELETE] https://dev.advanceappliance.ca/_internal | auth:403 Forbidden — endpoint exists but access denied
+[LOW] [403] [OPTIONS] https://dev.advanceappliance.ca/_internal | auth:403 Forbidden — endpoint exists but access denied
+[LOW] [403] [HEAD] https://dev.advanceappliance.ca/_internal | auth:403 Forbidden — endpoint exists but access denied
+[CRITICAL] [403] [PUT] https://dev.advanceappliance.ca/database.sql | auth:403 Forbidden — endpoint exists but access denied
+[CRITICAL] [403] [PATCH] https://dev.advanceappliance.ca/database.sql | auth:403 Forbidden — endpoint exists but access denied
+[CRITICAL] [403] [DELETE] https://dev.advanceappliance.ca/database.sql | auth:403 Forbidden — endpoint exists but access denied
+[CRITICAL] [403] [OPTIONS] https://dev.advanceappliance.ca/database.sql | auth:403 Forbidden — endpoint exists but access denied
+[HIGH] [403] [PUT] https://dev.advanceappliance.ca/telescope | auth:403 Forbidden — endpoint exists but access denied
+[HIGH] [403] [PATCH] https://dev.advanceappliance.ca/telescope | auth:403 Forbidden — endpoint exists but access denied
+[HIGH] [403] [DELETE] https://dev.advanceappliance.ca/telescope | auth:403 Forbidden — endpoint exists but access denied
+[HIGH] [403] [OPTIONS] https://dev.advanceappliance.ca/telescope | auth:403 Forbidden — endpoint exists but access denied
+[HIGH] [403] [HEAD] https://dev.advanceappliance.ca/telescope | auth:403 Forbidden — endpoint exists but access denied
+[LOW] [403] [GET] https://dev.advanceappliance.ca/letter_opener | auth:403 Forbidden — endpoint exists but access denied
+[LOW] [403] [POST] https://dev.advanceappliance.ca/letter_opener | auth:403 Forbidden — endpoint exists but access denied
+[LOW] [403] [PUT] https://dev.advanceappliance.ca/letter_opener | auth:403 Forbidden — endpoint exists but access denied
+[LOW] [403] [PATCH] https://dev.advanceappliance.ca/letter_opener | auth:403 Forbidden — endpoint exists but access denied
+[LOW] [403] [DELETE] https://dev.advanceappliance.ca/letter_opener | auth:403 Forbidden — endpoint exists but access denied
+[LOW] [403] [OPTIONS] https://dev.advanceappliance.ca/letter_opener | auth:403 Forbidden — endpoint exists but access denied
+[LOW] [403] [HEAD] https://dev.advanceappliance.ca/letter_opener | auth:403 Forbidden — endpoint exists but access denied
+[LOW] [403] [GET] https://dev.advanceappliance.ca/api/livez | auth:403 Forbidden — endpoint exists but access denied
+[LOW] [403] [POST] https://dev.advanceappliance.ca/api/livez | auth:403 Forbidden — endpoint exists but access denied
+[LOW] [403] [PATCH] https://dev.advanceappliance.ca/api/livez | auth:403 Forbidden — endpoint exists but access denied
+[LOW] [403] [DELETE] https://dev.advanceappliance.ca/api/livez | auth:403 Forbidden — endpoint exists but access denied
+[LOW] [403] [OPTIONS] https://dev.advanceappliance.ca/api/livez | auth:403 Forbidden — endpoint exists but access denied
+[LOW] [403] [HEAD] https://dev.advanceappliance.ca/api/livez | auth:403 Forbidden — endpoint exists but access denied
+[LOW] [403] [GET] https://dev.advanceappliance.ca/wp-json | auth:403 Forbidden — endpoint exists but access denied
+[LOW] [403] [POST] https://dev.advanceappliance.ca/wp-json | auth:403 Forbidden — endpoint exists but access denied
+[LOW] [403] [PUT] https://dev.advanceappliance.ca/wp-json | auth:403 Forbidden — endpoint exists but access denied
+[LOW] [403] [PATCH] https://dev.advanceappliance.ca/wp-json | auth:403 Forbidden — endpoint exists but access denied
+[LOW] [403] [DELETE] https://dev.advanceappliance.ca/wp-json | auth:403 Forbidden — endpoint exists but access denied
+[LOW] [403] [OPTIONS] https://dev.advanceappliance.ca/wp-json | auth:403 Forbidden — endpoint exists but access denied
+[LOW] [403] [HEAD] https://dev.advanceappliance.ca/wp-json | auth:403 Forbidden — endpoint exists but access denied
+[LOW] [403] [GET] https://dev.advanceappliance.ca/wp-json/wp/v2 | auth:403 Forbidden — endpoint exists but access denied
+[LOW] [403] [POST] https://dev.advanceappliance.ca/wp-json/wp/v2 | auth:403 Forbidden — endpoint exists but access denied
+[LOW] [403] [PUT] https://dev.advanceappliance.ca/wp-json/wp/v2 | auth:403 Forbidden — endpoint exists but access denied
+[LOW] [403] [PATCH] https://dev.advanceappliance.ca/wp-json/wp/v2 | auth:403 Forbidden — endpoint exists but access denied
+[LOW] [403] [DELETE] https://dev.advanceappliance.ca/wp-json/wp/v2 | auth:403 Forbidden — endpoint exists but access denied
+[LOW] [403] [OPTIONS] https://dev.advanceappliance.ca/wp-json/wp/v2 | auth:403 Forbidden — endpoint exists but access denied
+[LOW] [403] [HEAD] https://dev.advanceappliance.ca/wp-json/wp/v2 | auth:403 Forbidden — endpoint exists but access denied
+[LOW] [403] [GET] https://dev.advanceappliance.ca/wp-json/wp/v2/users | auth:403 Forbidden — endpoint exists but access denied
+[LOW] [403] [POST] https://dev.advanceappliance.ca/wp-json/wp/v2/users | auth:403 Forbidden — endpoint exists but access denied
+[LOW] [403] [PUT] https://dev.advanceappliance.ca/wp-json/wp/v2/users | auth:403 Forbidden — endpoint exists but access denied
+[LOW] [403] [PATCH] https://dev.advanceappliance.ca/wp-json/wp/v2/users | auth:403 Forbidden — endpoint exists but access denied
+[LOW] [403] [DELETE] https://dev.advanceappliance.ca/wp-json/wp/v2/users | auth:403 Forbidden — endpoint exists but access denied
+[LOW] [403] [OPTIONS] https://dev.advanceappliance.ca/wp-json/wp/v2/users | auth:403 Forbidden — endpoint exists but access denied
+[LOW] [403] [HEAD] https://dev.advanceappliance.ca/wp-json/wp/v2/users | auth:403 Forbidden — endpoint exists but access denied
+[LOW] [403] [GET] https://dev.advanceappliance.ca/_debug | auth:403 Forbidden — endpoint exists but access denied
+[LOW] [403] [POST] https://dev.advanceappliance.ca/_debug | auth:403 Forbidden — endpoint exists but access denied
+[LOW] [403] [PUT] https://dev.advanceappliance.ca/_debug | auth:403 Forbidden — endpoint exists but access denied
+[LOW] [403] [DELETE] https://dev.advanceappliance.ca/_debug | auth:403 Forbidden — endpoint exists but access denied
+[LOW] [403] [OPTIONS] https://dev.advanceappliance.ca/_debug | auth:403 Forbidden — endpoint exists but access denied
+[LOW] [403] [HEAD] https://dev.advanceappliance.ca/_debug | auth:403 Forbidden — endpoint exists but access denied
+[CRITICAL] [403] [PATCH] https://dev.advanceappliance.ca/dump.sql | auth:403 Forbidden — endpoint exists but access denied
+[CRITICAL] [403] [DELETE] https://dev.advanceappliance.ca/dump.sql | auth:403 Forbidden — endpoint exists but access denied
+[CRITICAL] [403] [OPTIONS] https://dev.advanceappliance.ca/dump.sql | auth:403 Forbidden — endpoint exists but access denied
+[CRITICAL] [403] [HEAD] https://dev.advanceappliance.ca/dump.sql | auth:403 Forbidden — endpoint exists but access denied
+[LOW] [403] [GET] https://dev.advanceappliance.ca/api/readyz | auth:403 Forbidden — endpoint exists but access denied
+[LOW] [403] [POST] https://dev.advanceappliance.ca/api/readyz | auth:403 Forbidden — endpoint exists but access denied
+[LOW] [403] [DELETE] https://dev.advanceappliance.ca/api/readyz | auth:403 Forbidden — endpoint exists but access denied
+[LOW] [403] [OPTIONS] https://dev.advanceappliance.ca/api/readyz | auth:403 Forbidden — endpoint exists but access denied
+[LOW] [403] [HEAD] https://dev.advanceappliance.ca/api/readyz | auth:403 Forbidden — endpoint exists but access denied
+[HIGH] [403] [GET] https://dev.advanceappliance.ca/wp-admin/admin-ajax.php | auth:403 Forbidden — endpoint exists but access denied
+[HIGH] [403] [POST] https://dev.advanceappliance.ca/wp-admin/admin-ajax.php | auth:403 Forbidden — endpoint exists but access denied
+[HIGH] [403] [PUT] https://dev.advanceappliance.ca/wp-admin/admin-ajax.php | auth:403 Forbidden — endpoint exists but access denied
+[HIGH] [403] [PATCH] https://dev.advanceappliance.ca/wp-admin/admin-ajax.php | auth:403 Forbidden — endpoint exists but access denied
+[HIGH] [403] [DELETE] https://dev.advanceappliance.ca/wp-admin/admin-ajax.php | auth:403 Forbidden — endpoint exists but access denied
+[HIGH] [403] [OPTIONS] https://dev.advanceappliance.ca/wp-admin/admin-ajax.php | auth:403 Forbidden — endpoint exists but access denied
+[HIGH] [403] [HEAD] https://dev.advanceappliance.ca/wp-admin/admin-ajax.php | auth:403 Forbidden — endpoint exists but access denied
+[LOW] [403] [POST] https://dev.advanceappliance.ca/storage | auth:403 Forbidden — endpoint exists but access denied
+[LOW] [403] [PUT] https://dev.advanceappliance.ca/storage | auth:403 Forbidden — endpoint exists but access denied
+[LOW] [403] [PATCH] https://dev.advanceappliance.ca/storage | auth:403 Forbidden — endpoint exists but access denied
+[LOW] [403] [DELETE] https://dev.advanceappliance.ca/storage | auth:403 Forbidden — endpoint exists but access denied
+[LOW] [403] [OPTIONS] https://dev.advanceappliance.ca/storage | auth:403 Forbidden — endpoint exists but access denied
+[LOW] [403] [HEAD] https://dev.advanceappliance.ca/storage | auth:403 Forbidden — endpoint exists but access denied
+[LOW] [403] [POST] https://dev.advanceappliance.ca/django-admin | auth:403 Forbidden — endpoint exists but access denied
+[LOW] [403] [DELETE] https://dev.advanceappliance.ca/django-admin | auth:403 Forbidden — endpoint exists but access denied
+[LOW] [403] [OPTIONS] https://dev.advanceappliance.ca/django-admin | auth:403 Forbidden — endpoint exists but access denied
+[LOW] [403] [HEAD] https://dev.advanceappliance.ca/django-admin | auth:403 Forbidden — endpoint exists but access denied
+[LOW] [403] [PUT] https://dev.advanceappliance.ca/backup.zip | auth:403 Forbidden — endpoint exists but access denied
+[LOW] [403] [PATCH] https://dev.advanceappliance.ca/backup.zip | auth:403 Forbidden — endpoint exists but access denied
+[LOW] [403] [DELETE] https://dev.advanceappliance.ca/backup.zip | auth:403 Forbidden — endpoint exists but access denied
+[LOW] [403] [OPTIONS] https://dev.advanceappliance.ca/backup.zip | auth:403 Forbidden — endpoint exists but access denied
+[LOW] [403] [HEAD] https://dev.advanceappliance.ca/backup.zip | auth:403 Forbidden — endpoint exists but access denied
+[LOW] [403] [PUT] https://dev.advanceappliance.ca/sanctum/csrf-cookie | auth:403 Forbidden — endpoint exists but access denied
+[LOW] [403] [PATCH] https://dev.advanceappliance.ca/sanctum/csrf-cookie | auth:403 Forbidden — endpoint exists but access denied
+[LOW] [403] [DELETE] https://dev.advanceappliance.ca/sanctum/csrf-cookie | auth:403 Forbidden — endpoint exists but access denied
+[LOW] [403] [OPTIONS] https://dev.advanceappliance.ca/sanctum/csrf-cookie | auth:403 Forbidden — endpoint exists but access denied
+[LOW] [403] [HEAD] https://dev.advanceappliance.ca/sanctum/csrf-cookie | auth:403 Forbidden — endpoint exists but access denied
+[LOW] [403] [POST] https://dev.advanceappliance.ca/api/schema.json | auth:403 Forbidden — endpoint exists but access denied
+[LOW] [403] [PUT] https://dev.advanceappliance.ca/api/schema.json | auth:403 Forbidden — endpoint exists but access denied
+[LOW] [403] [PATCH] https://dev.advanceappliance.ca/api/schema.json | auth:403 Forbidden — endpoint exists but access denied
+[LOW] [403] [DELETE] https://dev.advanceappliance.ca/api/schema.json | auth:403 Forbidden — endpoint exists but access denied
+[LOW] [403] [OPTIONS] https://dev.advanceappliance.ca/api/schema.json | auth:403 Forbidden — endpoint exists but access denied
+[LOW] [403] [HEAD] https://dev.advanceappliance.ca/api/schema.json | auth:403 Forbidden — endpoint exists but access denied
+[LOW] [403] [GET] https://dev.advanceappliance.ca/job | auth:403 Forbidden — endpoint exists but access denied
+[LOW] [403] [POST] https://dev.advanceappliance.ca/job | auth:403 Forbidden — endpoint exists but access denied
+[LOW] [403] [PUT] https://dev.advanceappliance.ca/job | auth:403 Forbidden — endpoint exists but access denied
+[LOW] [403] [PATCH] https://dev.advanceappliance.ca/job | auth:403 Forbidden — endpoint exists but access denied
+[LOW] [403] [DELETE] https://dev.advanceappliance.ca/job | auth:403 Forbidden — endpoint exists but access denied
+[LOW] [403] [OPTIONS] https://dev.advanceappliance.ca/job | auth:403 Forbidden — endpoint exists but access denied
+[LOW] [403] [HEAD] https://dev.advanceappliance.ca/job | auth:403 Forbidden — endpoint exists but access denied
+[LOW] [403] [GET] https://dev.advanceappliance.ca/tasks | auth:403 Forbidden — endpoint exists but access denied
+[LOW] [403] [POST] https://dev.advanceappliance.ca/tasks | auth:403 Forbidden — endpoint exists but access denied
+[LOW] [403] [PUT] https://dev.advanceappliance.ca/tasks | auth:403 Forbidden — endpoint exists but access denied
+[LOW] [403] [PATCH] https://dev.advanceappliance.ca/tasks | auth:403 Forbidden — endpoint exists but access denied
+[LOW] [403] [DELETE] https://dev.advanceappliance.ca/tasks | auth:403 Forbidden — endpoint exists but access denied
+[LOW] [403] [OPTIONS] https://dev.advanceappliance.ca/tasks | auth:403 Forbidden — endpoint exists but access denied
+[LOW] [403] [HEAD] https://dev.advanceappliance.ca/tasks | auth:403 Forbidden — endpoint exists but access denied
+[LOW] [403] [GET] https://dev.advanceappliance.ca/queue | auth:403 Forbidden — endpoint exists but access denied
+[LOW] [403] [POST] https://dev.advanceappliance.ca/queue | auth:403 Forbidden — endpoint exists but access denied
+[LOW] [403] [PUT] https://dev.advanceappliance.ca/queue | auth:403 Forbidden — endpoint exists but access denied
+[LOW] [403] [PATCH] https://dev.advanceappliance.ca/queue | auth:403 Forbidden — endpoint exists but access denied
+[LOW] [403] [DELETE] https://dev.advanceappliance.ca/queue | auth:403 Forbidden — endpoint exists but access denied
+[LOW] [403] [OPTIONS] https://dev.advanceappliance.ca/queue | auth:403 Forbidden — endpoint exists but access denied
+[LOW] [403] [HEAD] https://dev.advanceappliance.ca/queue | auth:403 Forbidden — endpoint exists but access denied
+[LOW] [403] [GET] https://dev.advanceappliance.ca/worker | auth:403 Forbidden — endpoint exists but access denied
+[LOW] [403] [POST] https://dev.advanceappliance.ca/worker | auth:403 Forbidden — endpoint exists but access denied
+[LOW] [403] [PUT] https://dev.advanceappliance.ca/worker | auth:403 Forbidden — endpoint exists but access denied
+[LOW] [403] [PATCH] https://dev.advanceappliance.ca/worker | auth:403 Forbidden — endpoint exists but access denied
+[LOW] [403] [DELETE] https://dev.advanceappliance.ca/worker | auth:403 Forbidden — endpoint exists but access denied
+[LOW] [403] [OPTIONS] https://dev.advanceappliance.ca/worker | auth:403 Forbidden — endpoint exists but access denied
+[LOW] [403] [HEAD] https://dev.advanceappliance.ca/worker | auth:403 Forbidden — endpoint exists but access denied
+[LOW] [403] [GET] https://dev.advanceappliance.ca/report | auth:403 Forbidden — endpoint exists but access denied
+[LOW] [403] [POST] https://dev.advanceappliance.ca/report | auth:403 Forbidden — endpoint exists but access denied
+[LOW] [403] [PUT] https://dev.advanceappliance.ca/report | auth:403 Forbidden — endpoint exists but access denied
+[LOW] [403] [PATCH] https://dev.advanceappliance.ca/report | auth:403 Forbidden — endpoint exists but access denied
+[LOW] [403] [DELETE] https://dev.advanceappliance.ca/report | auth:403 Forbidden — endpoint exists but access denied
+[LOW] [403] [OPTIONS] https://dev.advanceappliance.ca/report | auth:403 Forbidden — endpoint exists but access denied
+[LOW] [403] [HEAD] https://dev.advanceappliance.ca/report | auth:403 Forbidden — endpoint exists but access denied
+[MEDIUM] [403] [GET] https://dev.advanceappliance.ca/reports | auth:403 Forbidden — endpoint exists but access denied
+[MEDIUM] [403] [POST] https://dev.advanceappliance.ca/reports | auth:403 Forbidden — endpoint exists but access denied
+[MEDIUM] [403] [PUT] https://dev.advanceappliance.ca/reports | auth:403 Forbidden — endpoint exists but access denied
+[MEDIUM] [403] [PATCH] https://dev.advanceappliance.ca/reports | auth:403 Forbidden — endpoint exists but access denied
+[MEDIUM] [403] [DELETE] https://dev.advanceappliance.ca/reports | auth:403 Forbidden — endpoint exists but access denied
+[MEDIUM] [403] [OPTIONS] https://dev.advanceappliance.ca/reports | auth:403 Forbidden — endpoint exists but access denied
+[MEDIUM] [403] [HEAD] https://dev.advanceappliance.ca/reports | auth:403 Forbidden — endpoint exists but access denied
+[LOW] [403] [GET] https://dev.advanceappliance.ca/statistics | auth:403 Forbidden — endpoint exists but access denied
+[LOW] [403] [POST] https://dev.advanceappliance.ca/statistics | auth:403 Forbidden — endpoint exists but access denied
+[LOW] [403] [PUT] https://dev.advanceappliance.ca/statistics | auth:403 Forbidden — endpoint exists but access denied
+[LOW] [403] [PATCH] https://dev.advanceappliance.ca/statistics | auth:403 Forbidden — endpoint exists but access denied
+[LOW] [403] [DELETE] https://dev.advanceappliance.ca/statistics | auth:403 Forbidden — endpoint exists but access denied
+[LOW] [403] [OPTIONS] https://dev.advanceappliance.ca/statistics | auth:403 Forbidden — endpoint exists but access denied
+[LOW] [403] [HEAD] https://dev.advanceappliance.ca/statistics | auth:403 Forbidden — endpoint exists but access denied
+[LOW] [403] [PUT] https://dev.advanceappliance.ca/_api | auth:403 Forbidden — endpoint exists but access denied
+[LOW] [403] [PATCH] https://dev.advanceappliance.ca/_api | auth:403 Forbidden — endpoint exists but access denied
+[LOW] [403] [DELETE] https://dev.advanceappliance.ca/_api | auth:403 Forbidden — endpoint exists but access denied
+[LOW] [403] [OPTIONS] https://dev.advanceappliance.ca/_api | auth:403 Forbidden — endpoint exists but access denied
+[LOW] [403] [HEAD] https://dev.advanceappliance.ca/_api | auth:403 Forbidden — endpoint exists but access denied
+[LOW] [403] [GET] https://dev.advanceappliance.ca/sync | auth:403 Forbidden — endpoint exists but access denied
+[LOW] [403] [POST] https://dev.advanceappliance.ca/sync | auth:403 Forbidden — endpoint exists but access denied
+[LOW] [403] [PUT] https://dev.advanceappliance.ca/sync | auth:403 Forbidden — endpoint exists but access denied
+[LOW] [403] [PATCH] https://dev.advanceappliance.ca/sync | auth:403 Forbidden — endpoint exists but access denied
+[LOW] [403] [DELETE] https://dev.advanceappliance.ca/sync | auth:403 Forbidden — endpoint exists but access denied
+[LOW] [403] [OPTIONS] https://dev.advanceappliance.ca/sync | auth:403 Forbidden — endpoint exists but access denied
+[LOW] [403] [HEAD] https://dev.advanceappliance.ca/sync | auth:403 Forbidden — endpoint exists but access denied
+[LOW] [403] [GET] https://dev.advanceappliance.ca/analytics | auth:403 Forbidden — endpoint exists but access denied
+[LOW] [403] [POST] https://dev.advanceappliance.ca/analytics | auth:403 Forbidden — endpoint exists but access denied
+[LOW] [403] [PUT] https://dev.advanceappliance.ca/analytics | auth:403 Forbidden — endpoint exists but access denied
+[LOW] [403] [DELETE] https://dev.advanceappliance.ca/analytics | auth:403 Forbidden — endpoint exists but access denied
+[LOW] [403] [OPTIONS] https://dev.advanceappliance.ca/analytics | auth:403 Forbidden — endpoint exists but access denied
+[LOW] [403] [HEAD] https://dev.advanceappliance.ca/analytics | auth:403 Forbidden — endpoint exists but access denied
+[LOW] [403] [GET] https://dev.advanceappliance.ca/task | auth:403 Forbidden — endpoint exists but access denied
+[LOW] [403] [PATCH] https://dev.advanceappliance.ca/task | auth:403 Forbidden — endpoint exists but access denied
+[LOW] [403] [DELETE] https://dev.advanceappliance.ca/task | auth:403 Forbidden — endpoint exists but access denied
+[LOW] [403] [OPTIONS] https://dev.advanceappliance.ca/task | auth:403 Forbidden — endpoint exists but access denied
+[LOW] [403] [HEAD] https://dev.advanceappliance.ca/task | auth:403 Forbidden — endpoint exists but access denied
+[LOW] [403] [GET] https://dev.advanceappliance.ca/migrate | auth:403 Forbidden — endpoint exists but access denied
+[LOW] [403] [POST] https://dev.advanceappliance.ca/migrate | auth:403 Forbidden — endpoint exists but access denied
+[LOW] [403] [PUT] https://dev.advanceappliance.ca/migrate | auth:403 Forbidden — endpoint exists but access denied
+[LOW] [403] [PATCH] https://dev.advanceappliance.ca/migrate | auth:403 Forbidden — endpoint exists but access denied
+[LOW] [403] [DELETE] https://dev.advanceappliance.ca/migrate | auth:403 Forbidden — endpoint exists but access denied
+[LOW] [403] [OPTIONS] https://dev.advanceappliance.ca/migrate | auth:403 Forbidden — endpoint exists but access denied
+[LOW] [403] [HEAD] https://dev.advanceappliance.ca/migrate | auth:403 Forbidden — endpoint exists but access denied
+[LOW] [403] [GET] https://dev.advanceappliance.ca/rails/mailers | auth:403 Forbidden — endpoint exists but access denied
+[LOW] [403] [POST] https://dev.advanceappliance.ca/rails/mailers | auth:403 Forbidden — endpoint exists but access denied
+[LOW] [403] [PUT] https://dev.advanceappliance.ca/rails/mailers | auth:403 Forbidden — endpoint exists but access denied
+[LOW] [403] [PATCH] https://dev.advanceappliance.ca/rails/mailers | auth:403 Forbidden — endpoint exists but access denied
+[LOW] [403] [DELETE] https://dev.advanceappliance.ca/rails/mailers | auth:403 Forbidden — endpoint exists but access denied
+[LOW] [403] [OPTIONS] https://dev.advanceappliance.ca/rails/mailers | auth:403 Forbidden — endpoint exists but access denied
+[LOW] [403] [HEAD] https://dev.advanceappliance.ca/rails/mailers | auth:403 Forbidden — endpoint exists but access denied
+[HIGH] [403] [GET] https://dev.advanceappliance.ca/xmlrpc.php | auth:403 Forbidden — endpoint exists but access denied
+[HIGH] [403] [DELETE] https://dev.advanceappliance.ca/xmlrpc.php | auth:403 Forbidden — endpoint exists but access denied
+[HIGH] [403] [OPTIONS] https://dev.advanceappliance.ca/xmlrpc.php | auth:403 Forbidden — endpoint exists but access denied
+[HIGH] [403] [HEAD] https://dev.advanceappliance.ca/xmlrpc.php | auth:403 Forbidden — endpoint exists but access denied
+[LOW] [403] [GET] https://dev.advanceappliance.ca/cache | auth:403 Forbidden — endpoint exists but access denied
+[LOW] [403] [POST] https://dev.advanceappliance.ca/cache | auth:403 Forbidden — endpoint exists but access denied
+[LOW] [403] [PUT] https://dev.advanceappliance.ca/cache | auth:403 Forbidden — endpoint exists but access denied
+[LOW] [403] [PATCH] https://dev.advanceappliance.ca/cache | auth:403 Forbidden — endpoint exists but access denied
+[LOW] [403] [DELETE] https://dev.advanceappliance.ca/cache | auth:403 Forbidden — endpoint exists but access denied
+[LOW] [403] [OPTIONS] https://dev.advanceappliance.ca/cache | auth:403 Forbidden — endpoint exists but access denied
+[LOW] [403] [HEAD] https://dev.advanceappliance.ca/cache | auth:403 Forbidden — endpoint exists but access denied
+[LOW] [403] [GET] https://dev.advanceappliance.ca/flush | auth:403 Forbidden — endpoint exists but access denied
+[LOW] [403] [POST] https://dev.advanceappliance.ca/flush | auth:403 Forbidden — endpoint exists but access denied
+[LOW] [403] [PUT] https://dev.advanceappliance.ca/flush | auth:403 Forbidden — endpoint exists but access denied
+[LOW] [403] [PATCH] https://dev.advanceappliance.ca/flush | auth:403 Forbidden — endpoint exists but access denied
+[LOW] [403] [DELETE] https://dev.advanceappliance.ca/flush | auth:403 Forbidden — endpoint exists but access denied
+[LOW] [403] [OPTIONS] https://dev.advanceappliance.ca/flush | auth:403 Forbidden — endpoint exists but access denied
+[LOW] [403] [HEAD] https://dev.advanceappliance.ca/flush | auth:403 Forbidden — endpoint exists but access denied
+[LOW] [403] [GET] https://dev.advanceappliance.ca/clear | auth:403 Forbidden — endpoint exists but access denied
+[LOW] [403] [POST] https://dev.advanceappliance.ca/clear | auth:403 Forbidden — endpoint exists but access denied
+[LOW] [403] [PUT] https://dev.advanceappliance.ca/clear | auth:403 Forbidden — endpoint exists but access denied
+[LOW] [403] [PATCH] https://dev.advanceappliance.ca/clear | auth:403 Forbidden — endpoint exists but access denied
+[LOW] [403] [DELETE] https://dev.advanceappliance.ca/clear | auth:403 Forbidden — endpoint exists but access denied
+[LOW] [403] [OPTIONS] https://dev.advanceappliance.ca/clear | auth:403 Forbidden — endpoint exists but access denied
+[LOW] [403] [HEAD] https://dev.advanceappliance.ca/clear | auth:403 Forbidden — endpoint exists but access denied
+[LOW] [403] [GET] https://dev.advanceappliance.ca/error | auth:403 Forbidden — endpoint exists but access denied
+[LOW] [403] [POST] https://dev.advanceappliance.ca/error | auth:403 Forbidden — endpoint exists but access denied
+[LOW] [403] [PUT] https://dev.advanceappliance.ca/error | auth:403 Forbidden — endpoint exists but access denied
+[LOW] [403] [PATCH] https://dev.advanceappliance.ca/error | auth:403 Forbidden — endpoint exists but access denied
+[LOW] [403] [DELETE] https://dev.advanceappliance.ca/error | auth:403 Forbidden — endpoint exists but access denied
+[LOW] [403] [OPTIONS] https://dev.advanceappliance.ca/error | auth:403 Forbidden — endpoint exists but access denied
+[LOW] [403] [HEAD] https://dev.advanceappliance.ca/error | auth:403 Forbidden — endpoint exists but access denied
+[LOW] [403] [GET] https://dev.advanceappliance.ca/errors | auth:403 Forbidden — endpoint exists but access denied
+[LOW] [403] [POST] https://dev.advanceappliance.ca/errors | auth:403 Forbidden — endpoint exists but access denied
+[LOW] [403] [PUT] https://dev.advanceappliance.ca/errors | auth:403 Forbidden — endpoint exists but access denied
+[LOW] [403] [PATCH] https://dev.advanceappliance.ca/errors | auth:403 Forbidden — endpoint exists but access denied
+[LOW] [403] [DELETE] https://dev.advanceappliance.ca/errors | auth:403 Forbidden — endpoint exists but access denied
+[LOW] [403] [OPTIONS] https://dev.advanceappliance.ca/errors | auth:403 Forbidden — endpoint exists but access denied
+[LOW] [403] [HEAD] https://dev.advanceappliance.ca/errors | auth:403 Forbidden — endpoint exists but access denied
+[LOW] [403] [GET] https://dev.advanceappliance.ca/exception | auth:403 Forbidden — endpoint exists but access denied
+[LOW] [403] [POST] https://dev.advanceappliance.ca/exception | auth:403 Forbidden — endpoint exists but access denied
+[LOW] [403] [PUT] https://dev.advanceappliance.ca/exception | auth:403 Forbidden — endpoint exists but access denied
+[LOW] [403] [PATCH] https://dev.advanceappliance.ca/exception | auth:403 Forbidden — endpoint exists but access denied
+[LOW] [403] [DELETE] https://dev.advanceappliance.ca/exception | auth:403 Forbidden — endpoint exists but access denied
+[LOW] [403] [OPTIONS] https://dev.advanceappliance.ca/exception | auth:403 Forbidden — endpoint exists but access denied
+[LOW] [403] [HEAD] https://dev.advanceappliance.ca/exception | auth:403 Forbidden — endpoint exists but access denied
+[LOW] [403] [GET] https://dev.advanceappliance.ca/exceptions | auth:403 Forbidden — endpoint exists but access denied
+[LOW] [403] [POST] https://dev.advanceappliance.ca/exceptions | auth:403 Forbidden — endpoint exists but access denied
+[LOW] [403] [PUT] https://dev.advanceappliance.ca/exceptions | auth:403 Forbidden — endpoint exists but access denied
+[LOW] [403] [PATCH] https://dev.advanceappliance.ca/exceptions | auth:403 Forbidden — endpoint exists but access denied
+[LOW] [403] [DELETE] https://dev.advanceappliance.ca/exceptions | auth:403 Forbidden — endpoint exists but access denied
+[LOW] [403] [OPTIONS] https://dev.advanceappliance.ca/exceptions | auth:403 Forbidden — endpoint exists but access denied
+[LOW] [403] [HEAD] https://dev.advanceappliance.ca/exceptions | auth:403 Forbidden — endpoint exists but access denied
+[LOW] [403] [DELETE] https://dev.advanceappliance.ca/.dockerignore | auth:403 Forbidden — endpoint exists but access denied
+[LOW] [403] [OPTIONS] https://dev.advanceappliance.ca/.dockerignore | auth:403 Forbidden — endpoint exists but access denied
+[LOW] [403] [HEAD] https://dev.advanceappliance.ca/.dockerignore | auth:403 Forbidden — endpoint exists but access denied
+[LOW] [403] [GET] https://dev.advanceappliance.ca/internal | auth:403 Forbidden — endpoint exists but access denied
+[LOW] [403] [POST] https://dev.advanceappliance.ca/internal | auth:403 Forbidden — endpoint exists but access denied
+[LOW] [403] [PUT] https://dev.advanceappliance.ca/internal | auth:403 Forbidden — endpoint exists but access denied
+[LOW] [403] [PATCH] https://dev.advanceappliance.ca/internal | auth:403 Forbidden — endpoint exists but access denied
+[LOW] [403] [DELETE] https://dev.advanceappliance.ca/internal | auth:403 Forbidden — endpoint exists but access denied
+[LOW] [403] [OPTIONS] https://dev.advanceappliance.ca/internal | auth:403 Forbidden — endpoint exists but access denied
+[LOW] [403] [HEAD] https://dev.advanceappliance.ca/internal | auth:403 Forbidden — endpoint exists but access denied
+[LOW] [403] [POST] https://dev.advanceappliance.ca/storage/logs | auth:403 Forbidden — endpoint exists but access denied
+[LOW] [403] [PUT] https://dev.advanceappliance.ca/storage/logs | auth:403 Forbidden — endpoint exists but access denied
+[LOW] [403] [DELETE] https://dev.advanceappliance.ca/storage/logs | auth:403 Forbidden — endpoint exists but access denied
+[LOW] [403] [OPTIONS] https://dev.advanceappliance.ca/storage/logs | auth:403 Forbidden — endpoint exists but access denied
+[LOW] [403] [HEAD] https://dev.advanceappliance.ca/storage/logs | auth:403 Forbidden — endpoint exists but access denied
+[LOW] [403] [GET] https://dev.advanceappliance.ca/private/api | auth:403 Forbidden — endpoint exists but access denied
+[LOW] [403] [POST] https://dev.advanceappliance.ca/private/api | auth:403 Forbidden — endpoint exists but access denied
+[LOW] [403] [PUT] https://dev.advanceappliance.ca/private/api | auth:403 Forbidden — endpoint exists but access denied
+[LOW] [403] [PATCH] https://dev.advanceappliance.ca/private/api | auth:403 Forbidden — endpoint exists but access denied
+[LOW] [403] [DELETE] https://dev.advanceappliance.ca/private/api | auth:403 Forbidden — endpoint exists but access denied
+[LOW] [403] [OPTIONS] https://dev.advanceappliance.ca/private/api | auth:403 Forbidden — endpoint exists but access denied
+[LOW] [403] [HEAD] https://dev.advanceappliance.ca/private/api | auth:403 Forbidden — endpoint exists but access denied
+[HIGH] [403] [GET] https://dev.advanceappliance.ca/wp-admin | auth:403 Forbidden — endpoint exists but access denied
+[HIGH] [403] [POST] https://dev.advanceappliance.ca/wp-admin | auth:403 Forbidden — endpoint exists but access denied
+[HIGH] [403] [PUT] https://dev.advanceappliance.ca/wp-admin | auth:403 Forbidden — endpoint exists but access denied
+[HIGH] [403] [PATCH] https://dev.advanceappliance.ca/wp-admin | auth:403 Forbidden — endpoint exists but access denied
+[HIGH] [403] [DELETE] https://dev.advanceappliance.ca/wp-admin | auth:403 Forbidden — endpoint exists but access denied
+[HIGH] [403] [OPTIONS] https://dev.advanceappliance.ca/wp-admin | auth:403 Forbidden — endpoint exists but access denied
+[HIGH] [403] [HEAD] https://dev.advanceappliance.ca/wp-admin | auth:403 Forbidden — endpoint exists but access denied
+[LOW] [403] [GET] https://dev.advanceappliance.ca/proxy | auth:403 Forbidden — endpoint exists but access denied
+[LOW] [403] [POST] https://dev.advanceappliance.ca/proxy | auth:403 Forbidden — endpoint exists but access denied
+[LOW] [403] [PUT] https://dev.advanceappliance.ca/proxy | auth:403 Forbidden — endpoint exists but access denied
+[LOW] [403] [PATCH] https://dev.advanceappliance.ca/proxy | auth:403 Forbidden — endpoint exists but access denied
+[LOW] [403] [DELETE] https://dev.advanceappliance.ca/proxy | auth:403 Forbidden — endpoint exists but access denied
+[LOW] [403] [OPTIONS] https://dev.advanceappliance.ca/proxy | auth:403 Forbidden — endpoint exists but access denied
+[LOW] [403] [HEAD] https://dev.advanceappliance.ca/proxy | auth:403 Forbidden — endpoint exists but access denied
+[LOW] [403] [GET] https://dev.advanceappliance.ca/cron | auth:403 Forbidden — endpoint exists but access denied
+[LOW] [403] [POST] https://dev.advanceappliance.ca/cron | auth:403 Forbidden — endpoint exists but access denied
+[LOW] [403] [PUT] https://dev.advanceappliance.ca/cron | auth:403 Forbidden — endpoint exists but access denied
+[LOW] [403] [PATCH] https://dev.advanceappliance.ca/cron | auth:403 Forbidden — endpoint exists but access denied
+[LOW] [403] [DELETE] https://dev.advanceappliance.ca/cron | auth:403 Forbidden — endpoint exists but access denied
+[LOW] [403] [OPTIONS] https://dev.advanceappliance.ca/cron | auth:403 Forbidden — endpoint exists but access denied
+[LOW] [403] [HEAD] https://dev.advanceappliance.ca/cron | auth:403 Forbidden — endpoint exists but access denied
+[HIGH] [403] [POST] https://dev.advanceappliance.ca/wp-login.php | auth:403 Forbidden — endpoint exists but access denied
+[HIGH] [403] [PUT] https://dev.advanceappliance.ca/wp-login.php | auth:403 Forbidden — endpoint exists but access denied
+[HIGH] [403] [PATCH] https://dev.advanceappliance.ca/wp-login.php | auth:403 Forbidden — endpoint exists but access denied
+[HIGH] [403] [DELETE] https://dev.advanceappliance.ca/wp-login.php | auth:403 Forbidden — endpoint exists but access denied
+[HIGH] [403] [OPTIONS] https://dev.advanceappliance.ca/wp-login.php | auth:403 Forbidden — endpoint exists but access denied
+[HIGH] [403] [HEAD] https://dev.advanceappliance.ca/wp-login.php | auth:403 Forbidden — endpoint exists but access denied
+[LOW] [403] [POST] https://dev.advanceappliance.ca/api/healthz | auth:403 Forbidden — endpoint exists but access denied
+[LOW] [403] [PUT] https://dev.advanceappliance.ca/api/healthz | auth:403 Forbidden — endpoint exists but access denied
+[LOW] [403] [PATCH] https://dev.advanceappliance.ca/api/healthz | auth:403 Forbidden — endpoint exists but access denied
+[LOW] [403] [DELETE] https://dev.advanceappliance.ca/api/healthz | auth:403 Forbidden — endpoint exists but access denied
+[LOW] [403] [OPTIONS] https://dev.advanceappliance.ca/api/healthz | auth:403 Forbidden — endpoint exists but access denied
+[LOW] [403] [HEAD] https://dev.advanceappliance.ca/api/healthz | auth:403 Forbidden — endpoint exists but access denied
+[CRITICAL] [403] [POST] https://dev.advanceappliance.ca/db.sqlite3 | auth:403 Forbidden — endpoint exists but access denied
+[CRITICAL] [403] [PATCH] https://dev.advanceappliance.ca/db.sqlite3 | auth:403 Forbidden — endpoint exists but access denied
+[CRITICAL] [403] [DELETE] https://dev.advanceappliance.ca/db.sqlite3 | auth:403 Forbidden — endpoint exists but access denied
+[CRITICAL] [403] [OPTIONS] https://dev.advanceappliance.ca/db.sqlite3 | auth:403 Forbidden — endpoint exists but access denied
+[CRITICAL] [403] [HEAD] https://dev.advanceappliance.ca/db.sqlite3 | auth:403 Forbidden — endpoint exists but access denied
+[LOW] [403] [GET] https://dev.advanceappliance.ca/private | auth:403 Forbidden — endpoint exists but access denied
+[LOW] [403] [POST] https://dev.advanceappliance.ca/private | auth:403 Forbidden — endpoint exists but access denied
+[LOW] [403] [PUT] https://dev.advanceappliance.ca/private | auth:403 Forbidden — endpoint exists but access denied
+[LOW] [403] [PATCH] https://dev.advanceappliance.ca/private | auth:403 Forbidden — endpoint exists but access denied
+[LOW] [403] [DELETE] https://dev.advanceappliance.ca/private | auth:403 Forbidden — endpoint exists but access denied
+[LOW] [403] [OPTIONS] https://dev.advanceappliance.ca/private | auth:403 Forbidden — endpoint exists but access denied
+[LOW] [403] [HEAD] https://dev.advanceappliance.ca/private | auth:403 Forbidden — endpoint exists but access denied
+[LOW] [403] [GET] https://dev.advanceappliance.ca/internal/api | auth:403 Forbidden — endpoint exists but access denied
+[LOW] [403] [POST] https://dev.advanceappliance.ca/internal/api | auth:403 Forbidden — endpoint exists but access denied
+[LOW] [403] [PUT] https://dev.advanceappliance.ca/internal/api | auth:403 Forbidden — endpoint exists but access denied
+[LOW] [403] [PATCH] https://dev.advanceappliance.ca/internal/api | auth:403 Forbidden — endpoint exists but access denied
+[LOW] [403] [DELETE] https://dev.advanceappliance.ca/internal/api | auth:403 Forbidden — endpoint exists but access denied
+[LOW] [403] [OPTIONS] https://dev.advanceappliance.ca/internal/api | auth:403 Forbidden — endpoint exists but access denied
+[LOW] [403] [HEAD] https://dev.advanceappliance.ca/internal/api | auth:403 Forbidden — endpoint exists but access denied
+[LOW] [403] [PUT] https://dev.advanceappliance.ca/db.sql | auth:403 Forbidden — endpoint exists but access denied
+[LOW] [403] [OPTIONS] https://dev.advanceappliance.ca/db.sql | auth:403 Forbidden — endpoint exists but access denied
+[LOW] [403] [HEAD] https://dev.advanceappliance.ca/db.sql | auth:403 Forbidden — endpoint exists but access denied
+[HIGH] [403] [PUT] https://dev.advanceappliance.ca/nova | auth:403 Forbidden — endpoint exists but access denied
+[HIGH] [403] [PATCH] https://dev.advanceappliance.ca/nova | auth:403 Forbidden — endpoint exists but access denied
+[HIGH] [403] [DELETE] https://dev.advanceappliance.ca/nova | auth:403 Forbidden — endpoint exists but access denied
+[HIGH] [403] [OPTIONS] https://dev.advanceappliance.ca/nova | auth:403 Forbidden — endpoint exists but access denied
+[HIGH] [403] [HEAD] https://dev.advanceappliance.ca/nova | auth:403 Forbidden — endpoint exists but access denied
+[LOW] [403] [PUT] https://dev.advanceappliance.ca/README.md | auth:403 Forbidden — endpoint exists but access denied
+[LOW] [403] [PATCH] https://dev.advanceappliance.ca/README.md | auth:403 Forbidden — endpoint exists but access denied
+[LOW] [403] [DELETE] https://dev.advanceappliance.ca/README.md | auth:403 Forbidden — endpoint exists but access denied
+[LOW] [403] [OPTIONS] https://dev.advanceappliance.ca/README.md | auth:403 Forbidden — endpoint exists but access denied
+[LOW] [403] [HEAD] https://dev.advanceappliance.ca/README.md | auth:403 Forbidden — endpoint exists but access denied
+[LOW] [403] [POST] https://dev.advanceappliance.ca/rails/info/properties | auth:403 Forbidden — endpoint exists but access denied
+[LOW] [403] [PUT] https://dev.advanceappliance.ca/rails/info/properties | auth:403 Forbidden — endpoint exists but access denied
+[LOW] [403] [PATCH] https://dev.advanceappliance.ca/rails/info/properties | auth:403 Forbidden — endpoint exists but access denied
+[LOW] [403] [DELETE] https://dev.advanceappliance.ca/rails/info/properties | auth:403 Forbidden — endpoint exists but access denied
+[LOW] [403] [OPTIONS] https://dev.advanceappliance.ca/rails/info/properties | auth:403 Forbidden — endpoint exists but access denied
+[LOW] [403] [HEAD] https://dev.advanceappliance.ca/rails/info/properties | auth:403 Forbidden — endpoint exists but access denied
+[MEDIUM] [403] [GET] https://dev.advanceappliance.ca/export | auth:403 Forbidden — endpoint exists but access denied
+[MEDIUM] [403] [POST] https://dev.advanceappliance.ca/export | auth:403 Forbidden — endpoint exists but access denied
+[MEDIUM] [403] [PUT] https://dev.advanceappliance.ca/export | auth:403 Forbidden — endpoint exists but access denied
+[MEDIUM] [403] [PATCH] https://dev.advanceappliance.ca/export | auth:403 Forbidden — endpoint exists but access denied
+[MEDIUM] [403] [DELETE] https://dev.advanceappliance.ca/export | auth:403 Forbidden — endpoint exists but access denied
+[MEDIUM] [403] [OPTIONS] https://dev.advanceappliance.ca/export | auth:403 Forbidden — endpoint exists but access denied
+[MEDIUM] [403] [HEAD] https://dev.advanceappliance.ca/export | auth:403 Forbidden — endpoint exists but access denied
+[LOW] [403] [GET] https://dev.advanceappliance.ca/import | auth:403 Forbidden — endpoint exists but access denied
+[LOW] [403] [POST] https://dev.advanceappliance.ca/import | auth:403 Forbidden — endpoint exists but access denied
+[LOW] [403] [PUT] https://dev.advanceappliance.ca/import | auth:403 Forbidden — endpoint exists but access denied
+[LOW] [403] [PATCH] https://dev.advanceappliance.ca/import | auth:403 Forbidden — endpoint exists but access denied
+[LOW] [403] [DELETE] https://dev.advanceappliance.ca/import | auth:403 Forbidden — endpoint exists but access denied
+[LOW] [403] [OPTIONS] https://dev.advanceappliance.ca/import | auth:403 Forbidden — endpoint exists but access denied
+[LOW] [403] [HEAD] https://dev.advanceappliance.ca/import | auth:403 Forbidden — endpoint exists but access denied
+[LOW] [403] [GET] https://dev.advanceappliance.ca/wp-cron.php | auth:403 Forbidden — endpoint exists but access denied
+[LOW] [403] [POST] https://dev.advanceappliance.ca/wp-cron.php | auth:403 Forbidden — endpoint exists but access denied
+[LOW] [403] [PUT] https://dev.advanceappliance.ca/wp-cron.php | auth:403 Forbidden — endpoint exists but access denied
+[LOW] [403] [PATCH] https://dev.advanceappliance.ca/wp-cron.php | auth:403 Forbidden — endpoint exists but access denied
+[LOW] [403] [DELETE] https://dev.advanceappliance.ca/wp-cron.php | auth:403 Forbidden — endpoint exists but access denied
+[LOW] [403] [OPTIONS] https://dev.advanceappliance.ca/wp-cron.php | auth:403 Forbidden — endpoint exists but access denied
+[LOW] [403] [HEAD] https://dev.advanceappliance.ca/wp-cron.php | auth:403 Forbidden — endpoint exists but access denied
+[LOW] [403] [GET] https://dev.advanceappliance.ca/service | auth:403 Forbidden — endpoint exists but access denied
+[LOW] [403] [POST] https://dev.advanceappliance.ca/service | auth:403 Forbidden — endpoint exists but access denied
+[LOW] [403] [PUT] https://dev.advanceappliance.ca/service | auth:403 Forbidden — endpoint exists but access denied
+[LOW] [403] [PATCH] https://dev.advanceappliance.ca/service | auth:403 Forbidden — endpoint exists but access denied
+[LOW] [403] [DELETE] https://dev.advanceappliance.ca/service | auth:403 Forbidden — endpoint exists but access denied
+[LOW] [403] [OPTIONS] https://dev.advanceappliance.ca/service | auth:403 Forbidden — endpoint exists but access denied
+[LOW] [403] [HEAD] https://dev.advanceappliance.ca/service | auth:403 Forbidden — endpoint exists but access denied
+[LOW] [403] [GET] https://dev.advanceappliance.ca/services | auth:403 Forbidden — endpoint exists but access denied
+[LOW] [403] [POST] https://dev.advanceappliance.ca/services | auth:403 Forbidden — endpoint exists but access denied
+[LOW] [403] [PUT] https://dev.advanceappliance.ca/services | auth:403 Forbidden — endpoint exists but access denied
+[LOW] [403] [PATCH] https://dev.advanceappliance.ca/services | auth:403 Forbidden — endpoint exists but access denied
+[LOW] [403] [DELETE] https://dev.advanceappliance.ca/services | auth:403 Forbidden — endpoint exists but access denied
+[LOW] [403] [OPTIONS] https://dev.advanceappliance.ca/services | auth:403 Forbidden — endpoint exists but access denied
+[LOW] [403] [HEAD] https://dev.advanceappliance.ca/services | auth:403 Forbidden — endpoint exists but access denied
+[LOW] [403] [GET] https://dev.advanceappliance.ca/jobs | auth:403 Forbidden — endpoint exists but access denied
+[LOW] [403] [POST] https://dev.advanceappliance.ca/jobs | auth:403 Forbidden — endpoint exists but access denied
+[LOW] [403] [PUT] https://dev.advanceappliance.ca/jobs | auth:403 Forbidden — endpoint exists but access denied
+[LOW] [403] [PATCH] https://dev.advanceappliance.ca/jobs | auth:403 Forbidden — endpoint exists but access denied
+[LOW] [403] [DELETE] https://dev.advanceappliance.ca/jobs | auth:403 Forbidden — endpoint exists but access denied
+[LOW] [403] [OPTIONS] https://dev.advanceappliance.ca/jobs | auth:403 Forbidden — endpoint exists but access denied
+[LOW] [403] [HEAD] https://dev.advanceappliance.ca/jobs | auth:403 Forbidden — endpoint exists but access denied
+[LOW] [403] [GET] https://dev.advanceappliance.ca/gateway | auth:403 Forbidden — endpoint exists but access denied
+[LOW] [403] [POST] https://dev.advanceappliance.ca/gateway | auth:403 Forbidden — endpoint exists but access denied
+[LOW] [403] [PUT] https://dev.advanceappliance.ca/gateway | auth:403 Forbidden — endpoint exists but access denied
+[LOW] [403] [PATCH] https://dev.advanceappliance.ca/gateway | auth:403 Forbidden — endpoint exists but access denied
+[LOW] [403] [DELETE] https://dev.advanceappliance.ca/gateway | auth:403 Forbidden — endpoint exists but access denied
+[LOW] [403] [OPTIONS] https://dev.advanceappliance.ca/gateway | auth:403 Forbidden — endpoint exists but access denied
+[LOW] [403] [HEAD] https://dev.advanceappliance.ca/gateway | auth:403 Forbidden — endpoint exists but access denied
+[LOW] [403] [GET] https://dev.advanceappliance.ca/stats | auth:403 Forbidden — endpoint exists but access denied
+[LOW] [403] [POST] https://dev.advanceappliance.ca/stats | auth:403 Forbidden — endpoint exists but access denied
+[LOW] [403] [PUT] https://dev.advanceappliance.ca/stats | auth:403 Forbidden — endpoint exists but access denied
+[LOW] [403] [PATCH] https://dev.advanceappliance.ca/stats | auth:403 Forbidden — endpoint exists but access denied
+[LOW] [403] [DELETE] https://dev.advanceappliance.ca/stats | auth:403 Forbidden — endpoint exists but access denied
+[LOW] [403] [OPTIONS] https://dev.advanceappliance.ca/stats | auth:403 Forbidden — endpoint exists but access denied
+[LOW] [403] [HEAD] https://dev.advanceappliance.ca/stats | auth:403 Forbidden — endpoint exists but access denied
